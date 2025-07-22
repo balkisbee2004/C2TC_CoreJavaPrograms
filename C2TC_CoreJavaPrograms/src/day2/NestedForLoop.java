@@ -1,4 +1,4 @@
-package day2.assessment;
+package day2;
 
 public class NestedForLoop {
 	//Program to demonstrate nested loops

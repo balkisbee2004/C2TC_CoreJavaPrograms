@@ -1,4 +1,4 @@
-package day2.assessment;
+package day2;
 
 public class ForEachLoopDemo {
 	//Program to demonstrate for each loop

@@ -1,4 +1,4 @@
-package day2.assessment;
+package day2;
 
 public class WhileDemo {
 	//Program to demonstrate  while do loop

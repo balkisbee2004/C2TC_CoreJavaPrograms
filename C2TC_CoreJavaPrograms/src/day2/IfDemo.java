@@ -1,4 +1,4 @@
-package day2.assessment;
+package day2;
 
 public class IfDemo {
 	//Program to guess a number in a given range

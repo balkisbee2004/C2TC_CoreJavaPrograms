@@ -1,4 +1,4 @@
-package day2.assessment;
+package day2;
 
 public class DecissionmakingWithOperators {
 	//Program to demonstrate decision making operators

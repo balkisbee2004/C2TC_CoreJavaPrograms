@@ -1,4 +1,4 @@
-package day2.assessment;
+package day2;
 
 public class IfElseDemo {
 	//Program to demonstrate if..else statement

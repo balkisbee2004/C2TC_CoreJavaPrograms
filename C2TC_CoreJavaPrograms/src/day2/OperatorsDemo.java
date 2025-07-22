@@ -1,4 +1,4 @@
-package day2.assessment;
+package day2;
 
 public class OperatorsDemo {
 	//Program to demonstrate  different operators(ternary,airthmetic,pre/post incrementation/decrementation) in java

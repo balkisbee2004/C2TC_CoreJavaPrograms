@@ -1,4 +1,4 @@
-package day2.assessment;
+package day2;
 
 public class ContinueDemo {
 	//Program to demonstrate  continue statement

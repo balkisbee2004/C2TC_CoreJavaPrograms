@@ -1,4 +1,4 @@
-package day2.assessment;
+package day2;
 
 public class DoWhileDemo {
 	//Program to demonstrate  do while loop
