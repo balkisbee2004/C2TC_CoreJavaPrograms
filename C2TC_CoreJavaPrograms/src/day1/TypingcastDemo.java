@@ -1,4 +1,4 @@
-package day1.assessment;
+package day1;
 
 public class TypingcastDemo {
 	//Program to demonstrate type casting between primitive types

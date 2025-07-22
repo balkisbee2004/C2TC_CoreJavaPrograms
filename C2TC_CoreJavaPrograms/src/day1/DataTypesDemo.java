@@ -1,4 +1,4 @@
-package day1.assessment;
+package day1;
 
 public class DataTypesDemo {
 	//Program to demonstrate Data types
