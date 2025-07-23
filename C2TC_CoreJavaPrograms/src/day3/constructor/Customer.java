@@ -1,3 +1,4 @@
+
 package day3.constructor;
 
 public class Customer {
@@ -23,6 +24,7 @@ public class Customer {
 		this.customerId = customerId;
 		this.customerCity = customerCity;
 	}
+	
 	
 	//Getter and Setters
 	public String getCustomerName() {
